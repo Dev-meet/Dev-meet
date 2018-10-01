@@ -12,4 +12,7 @@
 - [Dibyajit Tripathy](https://github.com/Dibyajitdj/) - India - Java - C - MATLAB - HTML
 - [marcojesus](https://github.com/marcojesus) - Portugal - HTML - CSS - Javascript
 - [Adrianteri](https://github.com/Adrianteri) - Kenya - Python - Js - Java - C++
-  [Grady](https://github.com/gradyhouston) - Washington D.C, USA - HTML - CSS - JS - PHP
+- [Grady](https://github.com/gradyhouston) - Washington D.C, USA - HTML - CSS - JS - PHP
+- [João Silva](https://github.com/l32355) - Portugal - Java - Python
+- [Mjpeppers](https://github.com/McGdevfunk824) - Southern California - Python - Javascript
+
