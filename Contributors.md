@@ -1,3 +1,4 @@
 - [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
 - [DragonGhost](https://github.com/DragonGhost7) - Montreal - Python - C++
 - [CCAtAlvis](https://github.com/CCAtAlvis) - Mumbai - PHP - C#
+- [SangeetaNB](https://github.com/SangeetaNB) - India - HTML - CSS - Javascript
