@@ -6,4 +6,4 @@
 - [Jude Osbert K](https://github.com/judeosbert) - India - Android - Java - Python
 - [SangeetaNB](https://github.com/SangeetaNB) - India - HTML - CSS - Javascript
 - [Swarnava](https://github.com/swarnava) - India - HTML - CSS - Javascript - Python
-
+- [SubhrajitPrusty](https://github.com/SubhrajitPrusty) - Bhubaneswar - Python - HTML - Java
