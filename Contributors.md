@@ -8,4 +8,4 @@
 - [Swarnava](https://github.com/swarnava) - India - HTML - CSS - Javascript - Python
 - [SubhrajitPrusty](https://github.com/SubhrajitPrusty) - Bhubaneswar - Python - HTML - Java
 - [Dibya Ranjan Jena](https://github.com/dibyasonu/) - India - Python - C - Java - MATLAB
-
+- [Dibyajit Tripathy](https://github.com/Dibyajitdj/) - India - Java - C - MATLAB - HTML
