@@ -5,4 +5,4 @@
 - [Arkwrn](https://github.com/arkwrn) - Jakarta - Python - PHP
 - [Jude Osbert K](https://github.com/judeosbert) - India - Android - Java - Python
 - [SangeetaNB](https://github.com/SangeetaNB) - India - HTML - CSS - Javascript
-
+- [Dibyajit Tripathy](https://github.com/Dibyajitdj/) - India - Java - C - MATLAB - HTML
