@@ -1,1 +1,2 @@
 - [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
+- [Jude Osbert K](https://github.com/judeosbert) - India - Android - Java - Python
