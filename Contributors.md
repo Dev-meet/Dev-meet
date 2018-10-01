@@ -1,1 +1,3 @@
 - [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
+- [DragonGhost](https://github.com/DragonGhost7) - Montreal - Python - C++
+
