@@ -3,3 +3,5 @@
 - [CCAtAlvis](https://github.com/CCAtAlvis) - Mumbai - PHP - C#
 - [SangeetaNB](https://github.com/SangeetaNB) - India - HTML - CSS - Javascript
 - [Arkwrn](https://github.com/arkwrn) - Jakarta - Python - PHP
+- [Jude Osbert K](https://github.com/judeosbert) - India - Android - Java - Python
+
