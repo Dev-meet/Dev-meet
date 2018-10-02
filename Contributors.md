@@ -19,3 +19,4 @@
 - [AGunnerson](https://github.com/TheGunder) - Utah - Python - Javascript
 - [Zachery Gentry](https://github.com/zacherygentry) - Dallas, Texas - Java - JS - Python
 - [mrvivacious](https://github.com/mrvivacious) - UIUC - JavaScript - Python - HTML/CSS - Java 
+- [Minh Chau](https://github.com/ctrongminh) - VietNam - Go - java
