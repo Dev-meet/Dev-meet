@@ -20,3 +20,5 @@
 - [Zachery Gentry](https://github.com/zacherygentry) - Dallas, Texas - Java - JS - Python
 - [mrvivacious](https://github.com/mrvivacious) - UIUC - JavaScript - Python - HTML/CSS - Java 
 - [Minh Chau](https://github.com/ctrongminh) - VietNam - Go - java
+- [justinal64](https://github.com/justinal64) - Middle Tennessee - Javascript - C#
+
