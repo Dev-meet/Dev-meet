@@ -30,3 +30,4 @@
 - [Rohit-kmr](https://github.com/Rohit-Kmr) - Delhi,India - Python - C++ - Java - PHP 
 - [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
 - [Gerald Burke](https://gihub.com/geraldfingburke) - Northeast Tennessee - Java - C#
+- [Raditya Surya Pratama](https://github.com/radityasurya) - Indonesia - JavaScript - Go - C# - HTML - CSS - Python
