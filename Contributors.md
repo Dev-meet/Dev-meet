@@ -22,4 +22,5 @@
 - [mrvivacious](https://github.com/mrvivacious) - UIUC - JavaScript - Python - HTML/CSS - Java 
 - [Minh Chau](https://github.com/ctrongminh) - VietNam - Go - java
 - [justinal64](https://github.com/justinal64) - Middle Tennessee - Javascript - C#
-- [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
+- [AntonTru3](https://github.com/AntonTru3) - Australia - Javascript - Python
+- [YIRANO](https://github.com/yirano) - Seattle, WA - Javascript - HTML5 - CSS3
