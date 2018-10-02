@@ -23,3 +23,4 @@
 - [Minh Chau](https://github.com/ctrongminh) - VietNam - Go - java
 - [justinal64](https://github.com/justinal64) - Middle Tennessee - Javascript - C#
 - [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
+- [Ar3Tea] (https://github.com/ar3tea) - US, East Coast - HTML - JavaScript - CSS - Liquid - React
