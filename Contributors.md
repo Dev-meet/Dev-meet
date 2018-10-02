@@ -19,7 +19,7 @@
 - [Adam Watts](https://github.com/AdamWatts) - US - HTML - CSS - JavaScript
 - [AGunnerson](https://github.com/TheGunder) - Utah - Python - Javascript
 - [Zachery Gentry](https://github.com/zacherygentry) - Dallas, Texas - Java - JS - Python
-- [mrvivacious](https://github.com/mrvivacious) - UIUC - JavaScript - Python - HTML/CSS - Java 
+- [mrvivacious](https://github.com/mrvivacious) - UIUC - JavaScript - Python - HTML/CSS - Java
 - [Minh Chau](https://github.com/ctrongminh) - VietNam - Go - java
 - [justinal64](https://github.com/justinal64) - Middle Tennessee - Javascript - C#
 - [AntonTru3](https://github.com/AntonTru3) - Australia - Javascript - Python
@@ -31,3 +31,4 @@
 - [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
 - [Gerald Burke](https://gihub.com/geraldfingburke) - Northeast Tennessee - Java - C#
 - [Raditya Surya Pratama](https://github.com/radityasurya) - Indonesia - JavaScript - Go - C# - HTML - CSS - Python
+- [Chris Watkin](https://github.com/CQW-Code) - North Carolina - HTML/CSS - Ruby - React - JS - ASL ;)
