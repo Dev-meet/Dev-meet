@@ -17,4 +17,4 @@
 - [Mjpeppers](https://github.com/McGdevfunk824) - Southern California - Python - Javascript
 - [Adam Watts](https://github.com/AdamWatts) - US - HTML - CSS - JavaScript
 - [AGunnerson](https://github.com/TheGunder) - Utah - Python - Javascript
-
+- [Zachery Gentry](https://github.com/zacherygentry) - Dallas, Texas - Java - JS - Python
