@@ -22,5 +22,8 @@
 - [mrvivacious](https://github.com/mrvivacious) - UIUC - JavaScript - Python - HTML/CSS - Java 
 - [Minh Chau](https://github.com/ctrongminh) - VietNam - Go - java
 - [justinal64](https://github.com/justinal64) - Middle Tennessee - Javascript - C#
-- [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
 - [Matthew](https://github.com/TechDimension) - London - Java - Javascript - HTML/CSS - Ruby - C++
+- [Ar3Tea] (https://github.com/ar3tea) - US, East Coast - HTML - JavaScript - CSS - Liquid - React
+- [AntonTru3](https://github.com/AntonTru3) - Australia - Javascript - Python
+- [Rohit-kmr](https://github.com/Rohit-Kmr) - Delhi,India - Python - C++ - Java - PHP 
+- [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
