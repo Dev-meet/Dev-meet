@@ -15,4 +15,4 @@
 - [Grady](https://github.com/gradyhouston) - Washington D.C, USA - HTML - CSS - JS - PHP
 - [João Silva](https://github.com/l32355) - Portugal - Java - Python
 - [Mjpeppers](https://github.com/McGdevfunk824) - Southern California - Python - Javascript
-
+- [Zachery Gentry](https://github.com/zacherygentry) - Dallas, Texas - Java - JS - Python
