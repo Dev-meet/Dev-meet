@@ -23,3 +23,4 @@
 - [Minh Chau](https://github.com/ctrongminh) - VietNam - Go - java
 - [justinal64](https://github.com/justinal64) - Middle Tennessee - Javascript - C#
 - [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
+- [Gerald Burke](https://gihub.com/geraldfingburke) - Northeast Tennessee - Java - C#
