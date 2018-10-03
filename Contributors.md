@@ -35,3 +35,4 @@
 - [Akshat Pande](https://github.com/akshat0047) - Lucknow,India - HTML/CSS - Javascript - sql - Php - Python - C
 - [Facundo Rossi](https://github.com/FacuRossi) - Cordoba Argentina - HTML/CSS - JavaScript - React - Java  ;)
 - [Jordan Ballinger] (https://github.com/jordballinger) - Australia - Python - C++
+- [ljoonal](https://github.com/ljoonal) - Finland - JavaScript - HTML - CSS - PHP - Python
