@@ -34,6 +34,6 @@
 - [Chris Watkin](https://github.com/CQW-Code) - North Carolina - HTML/CSS - Ruby - React - JS - ASL ;)
 - [Akshat Pande](https://github.com/akshat0047) - Lucknow,India - HTML/CSS - Javascript - sql - Php - Python - C
 - [Facundo Rossi](https://github.com/FacuRossi) - Cordoba Argentina - HTML/CSS - JavaScript - React - Java  ;)
-- [Jordan Ballinger] (https://github.com/jordballinger) - Australia - Python - C++
+- [Jordan Ballinger](https://github.com/jordballinger) - Australia - Python - C++
 - [thecoderkd](https://github.com/thecoderkd) - India - Java - Python - Ruby
 
