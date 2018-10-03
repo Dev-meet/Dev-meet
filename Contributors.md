@@ -1,4 +1,4 @@
-- [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
+﻿- [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
 - [DragonGhost](https://github.com/DragonGhost7) - Montreal - Python - C++
 - [CCAtAlvis](https://github.com/CCAtAlvis) - Mumbai - PHP - C#
 - [SangeetaNB](https://github.com/SangeetaNB) - India - HTML - CSS - Javascript
@@ -31,5 +31,6 @@
 - [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
 - [Gerald Burke](https://gihub.com/geraldfingburke) - Northeast Tennessee - Java - C#
 - [Raditya Surya Pratama](https://github.com/radityasurya) - Indonesia - JavaScript - Go - C# - HTML - CSS - Python
-- [Chris Watkin](https://github.com/CQW-Code) - North Carolina - HTML/CSS - Ruby - React - JS - ASL
+- [Chris Watkin](https://github.com/CQW-Code) - North Carolina - HTML/CSS - Ruby - React - JS - ASL ;)
+- [Akshat Pande](https://github.com/akshat0047) - Lucknow,India - HTML/CSS - Javascript - sql - Php - Python - C
 - [Facundo Rossi](https://github.com/FacuRossi) - Cordoba Argentina - HTML/CSS - JavaScript - React - Java  ;)
