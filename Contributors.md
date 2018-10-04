@@ -38,3 +38,4 @@
 - [ljoonal](https://github.com/ljoonal) - Finland - JavaScript - HTML - CSS - PHP - Python
 - [thecoderkd](https://github.com/thecoderkd) - India - Java - Python - Ruby
 - [Debashish Mishra](https://github.com/Zanark) - Odisha,India - C - C++ - Java - Python - HTML/CSS - PHP 
+- [Sean B](https://github.com/seanysean) - Canada - HTML/CSS - JavaScript
