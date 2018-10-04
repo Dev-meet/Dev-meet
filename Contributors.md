@@ -25,10 +25,10 @@
 - [AntonTru3](https://github.com/AntonTru3) - Australia - Javascript - Python
 - [YIRANO](https://github.com/yirano) - Seattle, WA - Javascript - HTML5 - CSS3
 - [Matthew](https://github.com/TechDimension) - London - Java - Javascript - HTML/CSS - Ruby - C++
-- [Ar3Tea] (https://github.com/ar3tea) - US, East Coast - HTML - JavaScript - CSS - Liquid - React
+- [Ar3Tea](https://github.com/ar3tea) - US, East Coast - HTML - JavaScript - CSS - Liquid - React
 - [AntonTru3](https://github.com/AntonTru3) - Australia - Javascript - Python
 - [Rohit-kmr](https://github.com/Rohit-Kmr) - Delhi,India - Python - C++ - Java - PHP 
-- [AntonTru3] (https://github.com/AntonTru3) - Australia - Javascript - Python
+- [AntonTru3](https://github.com/AntonTru3) - Australia - Javascript - Python
 - [Gerald Burke](https://gihub.com/geraldfingburke) - Northeast Tennessee - Java - C#
 - [Raditya Surya Pratama](https://github.com/radityasurya) - Indonesia - JavaScript - Go - C# - HTML - CSS - Python
 - [Chris Watkin](https://github.com/CQW-Code) - North Carolina - HTML/CSS - Ruby - React - JS - ASL ;)
@@ -36,3 +36,4 @@
 - [Facundo Rossi](https://github.com/FacuRossi) - Cordoba Argentina - HTML/CSS - JavaScript - React - Java  ;)
 - [Jordan Ballinger] (https://github.com/jordballinger) - Australia - Python - C++
 - [ljoonal](https://github.com/ljoonal) - Finland - JavaScript - HTML - CSS - PHP - Python
+- [thecoderkd](https://github.com/thecoderkd) - India - Java - Python - Ruby
