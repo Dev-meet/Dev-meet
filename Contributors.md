@@ -39,3 +39,4 @@
 - [thecoderkd](https://github.com/thecoderkd) - India - Java - Python - Ruby
 - [Debashish Mishra](https://github.com/Zanark) - Odisha,India - C - C++ - Java - Python - HTML/CSS - PHP 
 - [Sean B](https://github.com/seanysean) - Canada - HTML/CSS - JavaScript
+- [Chris Nord](https://github.com/pandabear41) - US - JavaScript - HTML - CSS - C#
