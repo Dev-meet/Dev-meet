@@ -42,3 +42,4 @@
 - [Sean B](https://github.com/seanysean) - Canada - HTML/CSS - JavaScript
 - [Chris Nord](https://github.com/pandabear41) - US - JavaScript - HTML - CSS - C#
 - [Zayn Korai](https://github.com/zaynkorai) - Pakistan - Go- Java- Node
+- [Allen Oliver](https://github.com/AllenOliver) - Johnson City, TN, USA - C++ - C# - MoonScript
