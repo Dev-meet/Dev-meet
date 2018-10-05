@@ -41,3 +41,4 @@
 - [Debashish Mishra](https://github.com/Zanark) - Odisha,India - C - C++ - Java - Python - HTML/CSS - PHP 
 - [Sean B](https://github.com/seanysean) - Canada - HTML/CSS - JavaScript
 - [Chris Nord](https://github.com/pandabear41) - US - JavaScript - HTML - CSS - C#
+- [Zayn Korai](https://github.com/zaynkorai) - Pakistan - Go- Java- Node
