@@ -14,6 +14,7 @@
 - [Adrianteri](https://github.com/Adrianteri) - Kenya - Python - Js - Java - C++
 - [Grady](https://github.com/gradyhouston) - Washington D.C, USA - HTML - CSS - JS - PHP
 - [João Silva](https://github.com/l32355) - Portugal - Java - Python
+- [hercegtomas](https://github.com/hercegtomas) - London UK - HTML/CSS - JS - Java - C# 
 - [Mjpeppers](https://github.com/McGdevfunk824) - Southern California - Python - Javascript
 - [Tram Nguyen](https://github.com/nthtram) - VietNam - Python
 - [Adam Watts](https://github.com/AdamWatts) - US - HTML - CSS - JavaScript
