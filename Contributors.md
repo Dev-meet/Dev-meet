@@ -45,3 +45,4 @@
 - [Ashrul Khair](https://github.com/ashrulkhair) - Indonesia - PHP- Java- C#
 - [Sabuj Jana](https://github.com/JanaSabuj) - India - HTML/CSS - C++
 - [Shridhi](https://github.com/aggarwal19) - India - C - C++ - HTML - CSS - Javascript
+- [Ayush Jain](https://github.com/Ayushjain1722)- India - C++ -C - SQL
