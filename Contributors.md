@@ -42,4 +42,7 @@
 - [Sean B](https://github.com/seanysean) - Canada - HTML/CSS - JavaScript
 - [Chris Nord](https://github.com/pandabear41) - US - JavaScript - HTML - CSS - C#
 - [Zayn Korai](https://github.com/zaynkorai) - Pakistan - Go- Java- Node
+- [Ashrul Khair](https://github.com/ashrulkhair) - Indonesia - PHP- Java- C#
+- [Sabuj Jana](https://github.com/JanaSabuj) - India - HTML/CSS - C++
+- [Shridhi](https://github.com/aggarwal19) - India - C - C++ - HTML - CSS - Javascript
 - [Ayush Jain](https://github.com/Ayushjain1722)- India - C++ -C - SQL
