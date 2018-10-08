@@ -47,4 +47,4 @@
 - [Shridhi](https://github.com/aggarwal19) - India - C - C++ - HTML - CSS - Javascript
 - [Ayush Jain](https://github.com/Ayushjain1722)- India - C++ -C - SQL
 - [Allen Oliver](https://github.com/AllenOliver) - Johnson City, TN, USA - C++ - C# - MoonScript
-
+- [Sakshi Agarwal](https://github.com/Sakshi-Agarwal)- India - C++ -C - PYTHON
