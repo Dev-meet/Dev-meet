@@ -54,3 +54,4 @@
 - [Swapnil Singh](https://github.com/swapnil2306) - India - HTML - CSS - JavaScript - C
 - [Sudhanshu Jain](https://github.com/blacksag) - India - HTML/CSS - C++
 - [Vaibhav Bhardwaj](https://github.com/vbhv007) - Chennai, India - C - Javascript - Python - Ruby - PHP
+- [Owais Ali](https://github.com/owaisalics) - Karachi, Pakistan - C++, PHP, Javascript, MYSql, Python
