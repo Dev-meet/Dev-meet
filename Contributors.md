@@ -46,6 +46,7 @@
 - [Sabuj Jana](https://github.com/JanaSabuj) - India - HTML/CSS - C++
 - [Shridhi](https://github.com/aggarwal19) - India - C - C++ - HTML - CSS - Javascript
 - [Ayush Jain](https://github.com/Ayushjain1722)- India - C++ -C - SQL
+- [Jyoti Gupta](https://github.com/jyoti273)- India - Scala
 - [Allen Oliver](https://github.com/AllenOliver) - Johnson City, TN, USA - C++ - C# - MoonScript
 - [Glenn](https://github.com/singleparadox) - Philippines - C - Python - Java(Rusty) - JavaScript - PHP - SQL - HTML/CSS
 - [Vipul Sharma](https://github.com/vipul-11)- India - C++ -C - Python
