@@ -50,4 +50,4 @@
 - [Vipul Sharma](https://github.com/vipul-11)- India - C++ -C - Python
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta) - Bangalore, India - Go - Java - JavaScript
 - [Shiva924](https://github.com/Shiva924) - India - HTML/CSS - JS - Java - C#
-
+- [Jude Osbert K](https://github.com/judeosbert) - India - Android - Java - Python
