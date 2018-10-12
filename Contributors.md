@@ -47,4 +47,10 @@
 - [Shridhi](https://github.com/aggarwal19) - India - C - C++ - HTML - CSS - Javascript
 - [Ayush Jain](https://github.com/Ayushjain1722)- India - C++ -C - SQL
 - [Allen Oliver](https://github.com/AllenOliver) - Johnson City, TN, USA - C++ - C# - MoonScript
+- [Vipul Sharma](https://github.com/vipul-11)- India - C++ -C - Python
+- [Jyotsna Gupta](https://github.com/jyotsna17gupta) - Bangalore, India - Go - Java - JavaScript
+- [Shiva924](https://github.com/Shiva924) - India - HTML/CSS - JS - Java - C#
+- [Jude Osbert K](https://github.com/judeosbert) - India - Android - Java - Python
+- [Swapnil Singh](https://github.com/swapnil2306) - India - HTML - CSS - JavaScript - C
+- [Sudhanshu Jain](https://github.com/blacksag) - India - HTML/CSS - C++
 - [Vaibhav Bhardwaj](https://github.com/vbhv007) - Chennai, India - C - Javascript - Python - Ruby - PHP
