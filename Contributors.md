@@ -52,3 +52,4 @@
 - [Shiva924](https://github.com/Shiva924) - India - HTML/CSS - JS - Java - C#
 - [Jude Osbert K](https://github.com/judeosbert) - India - Android - Java - Python
 - [Swapnil Singh](https://github.com/swapnil2306) - India - HTML - CSS - JavaScript - C
+- [Sudhanshu Jain](https://github.com/blacksag) - India - HTML/CSS - C++
