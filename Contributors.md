@@ -58,3 +58,4 @@
 - [Vaibhav Bhardwaj](https://github.com/vbhv007) - Chennai, India - C - Javascript - Python - Ruby - PHP
 - [Owais Ali](https://github.com/owaisalics) - Karachi, Pakistan - C++, PHP, Javascript, MYSql, Python
 - [Austin Zuniga](https://github.com/AustinZuniga) - Legazpi City, Philippines - C++ - C - PHP - Python - java - javascipt
+- [Erin Smith](https://github.com/Erin-Smith) - Idaho - HTML - CSS - JavaScript - PHP - Java - C#
