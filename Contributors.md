@@ -59,3 +59,4 @@
 - [Owais Ali](https://github.com/ows-ali) - Karachi, Pakistan - C++, PHP, Javascript, MYSql, Python
 - [Austin Zuniga](https://github.com/AustinZuniga) - Legazpi City, Philippines - C++ - C - PHP - Python - java - javascipt
 - [Erin Smith](https://github.com/Erin-Smith) - Idaho - HTML - CSS - JavaScript - PHP - Java - C#
+- [Max Belushkin](https://github.com/belushkin) - Ukraine - PHP - Python - C++
