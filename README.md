@@ -2,6 +2,8 @@
 
 Use this repo so as to create first PR for Hacktoberfest.
 
+[Dev Meet!](https://dev-meet.github.io/Dev-meet/)
+
 ## Guidelines
 
 - Add your Name, Github Adress, Location, Known Languages to Contributors.md file 
@@ -21,12 +23,12 @@ git clone https://github.com/your-username/Dev-meet.git
 ```markdown
 git checkout -b my-new-branch
 ```
-- Add your Name, Github Adress, Location, Known Languages to __Contributors.md__ file
+- Add your Name, Github Address, Location, Known Languages to __Contributors.md__ file
 - Commit and push
 
 ```markdown
 git add .
-git commit -m 'Added __name__ to __Contributors__ list!'
+git commit -m "Added __name__ to __Contributors__ list!"
 git push origin my-new-branch
 ```
 
