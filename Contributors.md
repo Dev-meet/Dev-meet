@@ -34,7 +34,7 @@
 - [Raditya Surya Pratama](https://github.com/radityasurya) - Indonesia - JavaScript - Go - C# - HTML - CSS - Python
 - [Chris Watkin](https://github.com/CQW-Code) - North Carolina - HTML/CSS - Ruby - React - JS - ASL ;)
 - [Akshat Pande](https://github.com/akshat0047) - Lucknow,India - HTML/CSS - Javascript - sql - Php - Python - C
-- [Facundo Rossi](https://github.com/FacuRossi) - Cordoba Argentina - HTML/CSS - JavaScript - React - Java  ;)
+- [Facundo Rossi](https://github.com/FacuRossi) - Cordoba Argentina - HTML/CSS - JavaScript - React - Java ;)
 - [Jordan Ballinger](https://github.com/jordballinger) - Australia - Python - C++
 - [ljoonal](https://github.com/ljoonal) - Finland - JavaScript - HTML - CSS - PHP - Python
 - [thecoderkd](https://github.com/thecoderkd) - India - Java - Python - Ruby
@@ -64,3 +64,4 @@
 - [Keegan Lawley](https://github.com/keeganl) - Panama City, Florida - HTML - CSS - JavaScript - C++
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov) - Mainz, Germany - Python - C++ - C# - JavaScript
 - [Tanya Jain](https://github.com/Tanya-Jain) - New Delhi, India - Python - JS - HTML/CSS - React
+- [Yetunde Sola-Adebayo](https://github.com/yetunde79) - Houston, TX - HTML - CSS - JavaScript -
