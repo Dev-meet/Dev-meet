@@ -62,4 +62,6 @@
 - [Thanga Manickam](https://github.com) - Coimbatore,India - Python - Java - C- Matlab - C++
 - [Max Belushkin](https://github.com/belushkin) - Ukraine - PHP - Python - C++
 - [Keegan Lawley](https://github.com/keeganl) - Panama City, Florida - HTML - CSS - JavaScript - C++
+- [Kristiyan Dimitrov](https://github.com/KrDimitrov) - Mainz, Germany - Python - C++ - C# - JavaScript
+- [Tanya Jain](https://github.com/Tanya-Jain) - New Delhi, India - Python - JS - HTML/CSS - React
 - [Yetunde Sola-Adebayo](https://github.com/yetunde79) - Houston, TX - HTML - CSS - JavaScript -
