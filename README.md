@@ -37,6 +37,8 @@ git checkout -b my-new-branch
 ```markdown
 git add .
 git commit -m "Added __name__ to __Contributors__ list!"
+git fetch origin master
+git rebase master
 git push origin my-new-branch
 ```
 
