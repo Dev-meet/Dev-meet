@@ -66,6 +66,6 @@
 - [Tanya Jain](https://github.com/Tanya-Jain) - New Delhi, India - Python - JS - HTML/CSS - React
 - [Pranava Dhar](https://github.com/pranavad) - Noida, India - Python
 - [Yetunde Sola-Adebayo](https://github.com/yetunde79) - Houston, TX - HTML - CSS - JavaScript
-
+- [Alan Saputra Lengkoan](https://github.com/alanlengkoan) - Indonesia - HTML - CSS - JavaScript - PHP - Go - Python
 
 
