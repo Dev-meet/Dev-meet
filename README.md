@@ -4,6 +4,14 @@ Use this repo so as to create first PR for Hacktoberfest.
 
 [Dev Meet!](https://dev-meet.github.io/Dev-meet/)
 
+[logo]: https://github.com/Dev-meet/Dev-meet/blob/master/hacktoberfest-2019.png "Hacktoberfest 2019"
+
+
+# Event (Berlin)
+Happy Hacktoberfest 2019 to everyone! 
+I am planning to make an event in **Berlin** this year. Then we can contribute another projects together and create new pull request to any project you want to contribute.
+
+
 ## Guidelines
 
 - Add your Name, Github Adress, Location, Known Languages to Contributors.md file 
