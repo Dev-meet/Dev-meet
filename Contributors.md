@@ -69,3 +69,4 @@
 - [Fiqar Aprialim](https://github.com/lbexp) - Indonesia - HTML - CSS - JavaScript
 - [73VW](https://github.com/73VW) - Neuchâtel, Switzerland - Python - C# - Java - PHP - C++ - C
 - [rahmat H Slameth](https://github.com/arhen) - Makassar, Indonesia - PHP - C# - Javascript - MYSql - HTML/CSS
+- [Alan Saputra Lengkoan](https://github.com/alanlengkoan) - Indonesia - HTML - CSS - JavaScript - PHP - Go - Python
