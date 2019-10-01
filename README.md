@@ -4,7 +4,9 @@ Use this repo so as to create first PR for Hacktoberfest.
 
 [Dev Meet!](https://dev-meet.github.io/Dev-meet/)
 
-<img align="center" src="https://github.com/Dev-meet/Dev-meet/blob/master/hacktoberfest-2019.png?raw=true" width=600 />
+<p align="center">
+  <img align="center" src="https://github.com/Dev-meet/Dev-meet/blob/master/hacktoberfest-2019.png?raw=true" width=600 />
+</p>
 
 
 # Event (Berlin)
