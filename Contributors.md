@@ -68,5 +68,5 @@
 - [Yetunde Sola-Adebayo](https://github.com/yetunde79) - Houston, TX - HTML - CSS - JavaScript
 - [73VW](https://github.com/73VW) - Neuchâtel, Switzerland - Python - C# - Java - PHP - C++ - C
 - [rahmat H Slameth](https://github.com/arhen) - Makassar, Indonesia - PHP - C# - Javascript - MYSql - HTML/CSS
-
+- [Uday](https://github.com/udaykiranreddykondreddy/) - Hyderabad, India - Python, Machine learning
 
