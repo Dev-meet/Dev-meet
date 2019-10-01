@@ -64,6 +64,6 @@
 - [Keegan Lawley](https://github.com/keeganl) - Panama City, Florida - HTML - CSS - JavaScript - C++
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov) - Mainz, Germany - Python - C++ - C# - JavaScript
 - [Tanya Jain](https://github.com/Tanya-Jain) - New Delhi, India - Python - JS - HTML/CSS - React
-- [Pranava Dhar](https://github.com/pranavad) - Noida, India - Python
 - [Yetunde Sola-Adebayo](https://github.com/yetunde79) - Houston, TX - HTML - CSS - JavaScript
+- [Pranava Dhar](https://github.com/pranavad) - Noida, India - Python
 
