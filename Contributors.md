@@ -70,3 +70,4 @@
 - [73VW](https://github.com/73VW) - Neuchâtel, Switzerland - Python - C# - Java - PHP - C++ - C
 - [rahmat H Slameth](https://github.com/arhen) - Makassar, Indonesia - PHP - C# - Javascript - MYSql - HTML/CSS
 - [Alan Saputra Lengkoan](https://github.com/alanlengkoan) - Indonesia - HTML - CSS - JavaScript - PHP - Go - Python
+- [Julien M'Poy](https://github.com/groovytron) - Le Locle, Switzerland - Python - JavaScript - PHP - Java - C#
