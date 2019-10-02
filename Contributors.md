@@ -71,3 +71,4 @@
 - [rahmat H Slameth](https://github.com/arhen) - Makassar, Indonesia - PHP - C# - Javascript - MYSql - HTML/CSS
 - [Alan Saputra Lengkoan](https://github.com/alanlengkoan) - Indonesia - HTML - CSS - JavaScript - PHP - Go - Python
 - [Julien M'Poy](https://github.com/groovytron) - Le Locle, Switzerland - Python - JavaScript - PHP - Java - C#
+- [Sylvain Renaud](https://github.com/sylvain1811) - Neuchâtel, Switzerland - Python - Java - Kotlin - Scala - C# - PHP - C++ - JavaScript
