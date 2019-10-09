@@ -16,7 +16,7 @@ I am planning to make an event in **Berlin** this year. Then we can contribute a
 
 ## Guidelines
 
-- Add your Name, Github Adress, Location, Known Languages to Contributors.md file 
+- Add your Name, Github Adress, Location, Linkedin Profile, Known Languages to Contributors.md file 
 - Or find a developer nearby and connect with them!
 
 ## Getting Started
