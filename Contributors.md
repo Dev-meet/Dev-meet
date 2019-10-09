@@ -1,4 +1,8 @@
-﻿- [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
+Template
+
+- [Your Name](https://github.com/) - Your Location - Your linkedin Profile - Known languages
+
+- [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
 - [DragonGhost](https://github.com/DragonGhost7) - Montreal - Python - C++
 - [CCAtAlvis](https://github.com/CCAtAlvis) - Mumbai - PHP - C#
 - [SangeetaNB](https://github.com/SangeetaNB) - India - HTML - CSS - Javascript
@@ -74,4 +78,4 @@
 - [Sylvain Renaud](https://github.com/sylvain1811) - Neuchâtel, Switzerland - Python - Java - Kotlin - Scala - C# - PHP - C++ - JavaScript
 - [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
 - [Aylina](https://github.com/https://github.com/aylna) - Berlin, Germany - Python
-- [Your Name](Your Github Link) - Your Location - Your linkedin Profile - Known languages
+
