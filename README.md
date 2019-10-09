@@ -33,7 +33,7 @@ git clone https://github.com/your-username/Dev-meet.git
 ```markdown
 git checkout -b my-new-branch
 ```
-- Add your Name, Github Address, Location, Known Languages to __Contributors.md__ file
+- Add your Name, Github Address, Linkedin Profile, Location, Known Languages to __Contributors.md__ file
 - Commit and push
 
 ```markdown
