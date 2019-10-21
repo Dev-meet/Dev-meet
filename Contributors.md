@@ -1,4 +1,8 @@
-﻿- [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
+Template
+
+- [Your Name](https://github.com/) - Your Location - Your linkedin Profile - Known languages
+
+- [Hadnazzar](https://github.com/hadnazzar) - Berlin - Javascript - Python
 - [DragonGhost](https://github.com/DragonGhost7) - Montreal - Python - C++
 - [CCAtAlvis](https://github.com/CCAtAlvis) - Mumbai - PHP - C#
 - [SangeetaNB](https://github.com/SangeetaNB) - India - HTML - CSS - Javascript
@@ -14,7 +18,7 @@
 - [Adrianteri](https://github.com/Adrianteri) - Kenya - Python - Js - Java - C++
 - [Grady](https://github.com/gradyhouston) - Washington D.C, USA - HTML - CSS - JS - PHP
 - [João Silva](https://github.com/l32355) - Portugal - Java - Python
-- [hercegtomas](https://github.com/hercegtomas) - London UK - HTML/CSS - JS - Java - C# 
+- [hercegtomas](https://github.com/hercegtomas) - London UK - HTML/CSS - JS - Java - C#
 - [Mjpeppers](https://github.com/McGdevfunk824) - Southern California - Python - Javascript
 - [Tram Nguyen](https://github.com/nthtram) - VietNam - Python
 - [Adam Watts](https://github.com/AdamWatts) - US - HTML - CSS - JavaScript
@@ -28,17 +32,17 @@
 - [Matthew](https://github.com/TechDimension) - London - Java - Javascript - HTML/CSS - Ruby - C++
 - [Ar3Tea](https://github.com/ar3tea) - US, East Coast - HTML - JavaScript - CSS - Liquid - React
 - [AntonTru3](https://github.com/AntonTru3) - Australia - Javascript - Python
-- [Rohit-kmr](https://github.com/Rohit-Kmr) - Delhi,India - Python - C++ - Java - PHP 
+- [Rohit-kmr](https://github.com/Rohit-Kmr) - Delhi,India - Python - C++ - Java - PHP
 - [AntonTru3](https://github.com/AntonTru3) - Australia - Javascript - Python
 - [Gerald Burke](https://gihub.com/geraldfingburke) - Northeast Tennessee - Java - C#
 - [Raditya Surya Pratama](https://github.com/radityasurya) - Indonesia - JavaScript - Go - C# - HTML - CSS - Python
 - [Chris Watkin](https://github.com/CQW-Code) - North Carolina - HTML/CSS - Ruby - React - JS - ASL ;)
 - [Akshat Pande](https://github.com/akshat0047) - Lucknow,India - HTML/CSS - Javascript - sql - Php - Python - C
-- [Facundo Rossi](https://github.com/FacuRossi) - Cordoba Argentina - HTML/CSS - JavaScript - React - Java  ;)
-- [Jordan Ballinger] (https://github.com/jordballinger) - Australia - Python - C++
+- [Facundo Rossi](https://github.com/FacuRossi) - Cordoba Argentina - HTML/CSS - JavaScript - React - Java ;)
+- [Jordan Ballinger](https://github.com/jordballinger) - Australia - Python - C++
 - [ljoonal](https://github.com/ljoonal) - Finland - JavaScript - HTML - CSS - PHP - Python
 - [thecoderkd](https://github.com/thecoderkd) - India - Java - Python - Ruby
-- [Debashish Mishra](https://github.com/Zanark) - Odisha,India - C - C++ - Java - Python - HTML/CSS - PHP 
+- [Debashish Mishra](https://github.com/Zanark) - Odisha,India - C - C++ - Java - Python - HTML/CSS - PHP
 - [Sean B](https://github.com/seanysean) - Canada - HTML/CSS - JavaScript
 - [Chris Nord](https://github.com/pandabear41) - US - JavaScript - HTML - CSS - C#
 - [Zayn Korai](https://github.com/zaynkorai) - Pakistan - Go- Java- Node
@@ -47,4 +51,33 @@
 - [Shridhi](https://github.com/aggarwal19) - India - C - C++ - HTML - CSS - Javascript
 - [Ayush Jain](https://github.com/Ayushjain1722)- India - C++ -C - SQL
 - [Allen Oliver](https://github.com/AllenOliver) - Kingsport, TN, USA -  C# - C++ - Javascript - Unity
+- [Jyoti Gupta](https://github.com/jyoti273)- India - Scala
+- [Allen Oliver](https://github.com/AllenOliver) - Johnson City, TN, USA - C++ - C# - MoonScript
+- [Glenn](https://github.com/singleparadox) - Philippines - C - Python - Java(Rusty) - JavaScript - PHP - SQL - HTML/CSS
+- [Vipul Sharma](https://github.com/vipul-11)- India - C++ -C - Python
+- [Jyotsna Gupta](https://github.com/jyotsna17gupta) - Bangalore, India - Go - Java - JavaScript
+- [Shiva924](https://github.com/Shiva924) - India - HTML/CSS - JS - Java - C#
+- [Jude Osbert K](https://github.com/judeosbert) - India - Android - Java - Python
+- [Swapnil Singh](https://github.com/swapnil2306) - India - HTML - CSS - JavaScript - C
+- [Sudhanshu Jain](https://github.com/blacksag) - India - HTML/CSS - C++
+- [Vaibhav Bhardwaj](https://github.com/vbhv007) - Chennai, India - C - Javascript - Python - Ruby - PHP
+- [Owais Ali](https://github.com/ows-ali) - Karachi, Pakistan - C++, PHP, Javascript, MYSql, Python
+- [Austin Zuniga](https://github.com/AustinZuniga) - Legazpi City, Philippines - C++ - C - PHP - Python - java - javascipt
+- [Erin Smith](https://github.com/Erin-Smith) - Idaho - HTML - CSS - JavaScript - PHP - Java - C#
+- [Thanga Manickam](https://github.com) - Coimbatore,India - Python - Java - C- Matlab - C++
+- [Max Belushkin](https://github.com/belushkin) - Ukraine - PHP - Python - C++
+- [Keegan Lawley](https://github.com/keeganl) - Panama City, Florida - HTML - CSS - JavaScript - C++
+- [Kristiyan Dimitrov](https://github.com/KrDimitrov) - Mainz, Germany - Python - C++ - C# - JavaScript
+- [Tanya Jain](https://github.com/Tanya-Jain) - New Delhi, India - Python - JS - HTML/CSS - React
+- [Pranava Dhar](https://github.com/pranavad) - Noida, India - Python
+- [Yetunde Sola-Adebayo](https://github.com/yetunde79) - Houston, TX - HTML - CSS - JavaScript
+- [Fiqar Aprialim](https://github.com/lbexp) - Indonesia - HTML - CSS - JavaScript
+- [73VW](https://github.com/73VW) - Neuchâtel, Switzerland - Python - C# - Java - PHP - C++ - C
+- [rahmat H Slameth](https://github.com/arhen) - Makassar, Indonesia - PHP - C# - Javascript - MYSql - HTML/CSS
+- [Alan Saputra Lengkoan](https://github.com/alanlengkoan) - Indonesia - HTML - CSS - JavaScript - PHP - Go - Python
+- [Julien M'Poy](https://github.com/groovytron) - Le Locle, Switzerland - Python - JavaScript - PHP - Java - C#
+- [Sylvain Renaud](https://github.com/sylvain1811) - Neuchâtel, Switzerland - Python - Java - Kotlin - Scala - C# - PHP - C++ - JavaScript
+- [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
+- [Aylina](https://github.com/https://github.com/aylna) - Berlin, Germany - Python
+- [Igihcksn](https://github.com/igihcksn) - Sleman, Yogyakarta - PHP, Ruby, Javascript
 
