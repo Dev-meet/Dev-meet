@@ -80,4 +80,4 @@ Template
 - [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
 - [Aylina](https://github.com/https://github.com/aylna) - Berlin, Germany - Python
 - [Igihcksn](https://github.com/igihcksn) - Sleman, Yogyakarta - PHP, Ruby, Javascript
-
+- [Ramiz mollah](https://github.com/deadlycoder7)-India,c++,java,HTML,css
