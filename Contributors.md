@@ -50,6 +50,7 @@ Template
 - [Sabuj Jana](https://github.com/JanaSabuj) - India - HTML/CSS - C++
 - [Shridhi](https://github.com/aggarwal19) - India - C - C++ - HTML - CSS - Javascript
 - [Ayush Jain](https://github.com/Ayushjain1722)- India - C++ -C - SQL
+- [Allen Oliver](https://github.com/AllenOliver) - Kingsport, TN, USA -  C# - C++ - Javascript - Unity
 - [Jyoti Gupta](https://github.com/jyoti273)- India - Scala
 - [Allen Oliver](https://github.com/AllenOliver) - Johnson City, TN, USA - C++ - C# - MoonScript
 - [Glenn](https://github.com/singleparadox) - Philippines - C - Python - Java(Rusty) - JavaScript - PHP - SQL - HTML/CSS
@@ -79,6 +80,4 @@ Template
 - [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
 - [Aylina](https://github.com/https://github.com/aylna) - Berlin, Germany - Python
 - [Igihcksn](https://github.com/igihcksn) - Sleman, Yogyakarta - PHP, Ruby, Javascript
-
-- [Your Name](https://github.com/) - Your Location - Your linkedin Profile - Known languages
 
