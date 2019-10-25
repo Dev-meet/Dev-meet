@@ -82,3 +82,4 @@
 - [Igihcksn](https://github.com/igihcksn) - Sleman, Yogyakarta - PHP, Ruby, Javascript
 - [Ramiz mollah](https://github.com/deadlycoder7)-India,c++,java,HTML,css
 - [Abhinav](https://github.com/singhabhigkp77) - Lucknow, India - Python
+- [Sangeeta](https://github.com/SangeetaNB) - India - Python - Js - Java - C++ - c - HTML
