@@ -1,4 +1,4 @@
-Template
+﻿Template
 
 - [Your Name](https://github.com/) - Your Location - Your linkedin Profile - Known languages
 
@@ -51,6 +51,7 @@ Template
 - [Sabuj Jana](https://github.com/JanaSabuj) - India - HTML/CSS - C++
 - [Shridhi](https://github.com/aggarwal19) - India - C - C++ - HTML - CSS - Javascript
 - [Ayush Jain](https://github.com/Ayushjain1722)- India - C++ -C - SQL
+- [Allen Oliver](https://github.com/AllenOliver) - Kingsport, TN, USA -  C# - C++ - Javascript - Unity
 - [Jyoti Gupta](https://github.com/jyoti273)- India - Scala
 - [Allen Oliver](https://github.com/AllenOliver) - Johnson City, TN, USA - C++ - C# - MoonScript
 - [Glenn](https://github.com/singleparadox) - Philippines - C - Python - Java(Rusty) - JavaScript - PHP - SQL - HTML/CSS
@@ -79,4 +80,8 @@ Template
 - [Sylvain Renaud](https://github.com/sylvain1811) - Neuchâtel, Switzerland - Python - Java - Kotlin - Scala - C# - PHP - C++ - JavaScript
 - [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
 - [Aylina](https://github.com/https://github.com/aylna) - Berlin, Germany - Python
+- [Igihcksn](https://github.com/igihcksn) - Sleman, Yogyakarta - PHP, Ruby, Javascript
+- [Ramiz mollah](https://github.com/deadlycoder7)-India,c++,java,HTML,css
+- [Abhinav](https://github.com/singhabhigkp77) - Lucknow, India - Python
+- [Sangeeta](https://github.com/SangeetaNB) - India - Python - Js - Java - C++ - c - HTML
 - [Fayaz Azeem P](https://github.com/Fayazazeemp) - India - Python - Js - Java - C++ - c - HTML
