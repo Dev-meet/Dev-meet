@@ -86,3 +86,4 @@
 - [Sangeeta](https://github.com/SangeetaNB) - India - Python - Js - Java - C++ - c - HTML
 - [Fayaz Azeem P](https://github.com/Fayazazeemp) - India - Python - Js - Java - C++ - c - HTML
 - [Muhammad Haris](https://github.com/MuhammadHaris55) - Pakistan - c - c++ - Java - Python - JavaScript - HTML - CSS
+- [Fernando Silva](https://github.com/fernandodebrando) - Rio Grande do Sul, Brasil - Python, PHP, Javascript, C#
