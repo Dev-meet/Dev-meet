@@ -5,12 +5,12 @@ Use this repo so as to create first PR for Hacktoberfest.
 [Dev Meet!](https://dev-meet.github.io/Dev-meet/)
 
 <p align="center">
-  <img align="center" src="https://github.com/Dev-meet/Dev-meet/blob/master/hacktoberfest-2019.png?raw=true" width=600 />
+  <img align="center" src="https://github.com/Dev-meet/Dev-meet/blob/master/hacktoberfest-2020.png?raw=true" width=600 />
 </p>
 
 
 # Event (Berlin)
-Happy Hacktoberfest 2019 to everyone! 
+Happy Hacktoberfest 2020 to everyone! 
 I am planning to make an event in **Berlin** this year. Then we can contribute another projects together and create new pull request to any project you want to contribute.
 
 
