@@ -2,6 +2,10 @@
 
 Use this repo so as to create first PR for Hacktoberfest.
 
+Subscribe to newsletter to get new articles i write about technology and software development! 
+
+[Subscribe Now!](https://mailchi.mp/08eadf92daa2/neby3o8z79)
+
 [Dev Meet!](https://dev-meet.github.io/Dev-meet/)
 
 <p align="center">
