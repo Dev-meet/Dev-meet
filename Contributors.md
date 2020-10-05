@@ -87,4 +87,6 @@
 - [Fayaz Azeem P](https://github.com/Fayazazeemp) - India - Python - Js - Java - C++ - c - HTML
 - [Muhammad Haris](https://github.com/MuhammadHaris55) - Pakistan - c - c++ - Java - Python - JavaScript - HTML - CSS
 - [Fernando Silva](https://github.com/fernandodebrando) - Rio Grande do Sul, Brasil - Python, PHP, Javascript, C#
+- [Alind Sharma](https://github.com/alindsharmasimply) - India - Node.js, .NET, Javascript, C#
+- [Renu Jain](https://github.com/renudjain31) - India - Python - Js - Java - C++ - c - HTML
 - [Glaucia Silva](https://github.com/glaucials) - São Paulo, Brasil - Java - C# - PHP - Javascript - HTML - CSS
