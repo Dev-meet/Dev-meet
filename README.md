@@ -1,6 +1,6 @@
 # Dev-Meet Hacktoberfest Developer Project
 
-Use this repo so as to create first PR for Hacktoberfest.
+Use this Dev-Meet repo to create your first PR for Hacktoberfest.
 
 Subscribe to newsletter to get new articles i write about technology and software development! 
 
