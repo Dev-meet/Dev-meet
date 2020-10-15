@@ -26,7 +26,7 @@ I am planning to make an event in **Berlin** this year. Then we can contribute a
 ## Getting Started
 
 - Fork this repo (button on top)
-- Clone on your local machine
+- Clone to your local machine
 
 ```terminal
 git clone https://github.com/your-username/Dev-meet.git
@@ -39,7 +39,7 @@ git checkout -b my-new-branch
 ```
 
 - Add your Name, Github Address, Linkedin Profile, Location, Known Languages to __Contributors.md__ file
-- Commit and push
+- Commit and push your changes!
 
 ```markdown
 git add .
