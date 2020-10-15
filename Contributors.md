@@ -78,8 +78,8 @@
 - [Alan Saputra Lengkoan](https://github.com/alanlengkoan) - Indonesia - HTML - CSS - JavaScript - PHP - Go - Python
 - [Julien M'Poy](https://github.com/groovytron) - Le Locle, Switzerland - Python - JavaScript - PHP - Java - C#
 - [Sylvain Renaud](https://github.com/sylvain1811) - Neuchâtel, Switzerland - Python - Java - Kotlin - Scala - C# - PHP - C++ - JavaScript
-- [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
 - [Aylina](https://github.com/https://github.com/aylna) - Berlin, Germany - Python
+- [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
 - [Igihcksn](https://github.com/igihcksn) - Sleman, Yogyakarta - PHP, Ruby, Javascript
 - [Ramiz mollah](https://github.com/deadlycoder7)-India,c++,java,HTML,css
 - [Abhinav](https://github.com/singhabhigkp77) - Lucknow, India - Python
