@@ -34,9 +34,10 @@ git clone https://github.com/your-username/Dev-meet.git
 
 - Create a new branch
 
-```markdown
+```terminal
 git checkout -b my-new-branch
 ```
+
 - Add your Name, Github Address, Linkedin Profile, Location, Known Languages to __Contributors.md__ file
 - Commit and push
 
