@@ -48,6 +48,6 @@ git rebase master
 git push origin my-new-branch
 ```
 
-- Create a new pull request from your forked repository
+- Create a new pull request from your forked repository.
 - 🎃 Happy Pull Requests! 🎃
 - Happy coding!
