@@ -92,3 +92,4 @@
 - [Glaucia Silva](https://github.com/glaucials) - São Paulo, Brasil - Java - C# - PHP - Javascript - HTML - CSS
 - [Pradyumn Singh](https://github.com/Pradyumn-Singh) - India - C++ - C - Python - HTML - CSS
 - [Wal Walczak](https://github.com/mocno123) - United Kingdom - Python - JavaScript - CSS - HTML
+- [Pratyush Raj](https://github.com/rajpratyush) - India - Python - Java - C - C++ - PHP - Dart - CSS - HTML
