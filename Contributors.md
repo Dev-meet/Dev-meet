@@ -78,8 +78,8 @@
 - [Alan Saputra Lengkoan](https://github.com/alanlengkoan) - Indonesia - HTML - CSS - JavaScript - PHP - Go - Python
 - [Julien M'Poy](https://github.com/groovytron) - Le Locle, Switzerland - Python - JavaScript - PHP - Java - C#
 - [Sylvain Renaud](https://github.com/sylvain1811) - Neuchâtel, Switzerland - Python - Java - Kotlin - Scala - C# - PHP - C++ - JavaScript
-- [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
 - [Aylina](https://github.com/https://github.com/aylna) - Berlin, Germany - Python
+- [Jonathan Guerne](https://github.com/JonathanGuerne/Dev-meet.git) - Courtelary, Switzerland - Python - Java - Scala - C++ - PHP - JavaScript
 - [Igihcksn](https://github.com/igihcksn) - Sleman, Yogyakarta - PHP, Ruby, Javascript
 - [Ramiz mollah](https://github.com/deadlycoder7)-India,c++,java,HTML,css
 - [Abhinav](https://github.com/singhabhigkp77) - Lucknow, India - Python
@@ -92,4 +92,6 @@
 - [Glaucia Silva](https://github.com/glaucials) - São Paulo, Brasil - Java - C# - PHP - Javascript - HTML - CSS
 - [Pradyumn Singh](https://github.com/Pradyumn-Singh) - India - C++ - C - Python - HTML - CSS
 - [Wal Walczak](https://github.com/mocno123) - United Kingdom - Python - JavaScript - CSS - HTML
-- [Pratyush Raj](https://github.com/rajpratyush) - India - Python - Java - C - C++ - PHP - Dart - CSS - HTML
+- [Pratyush Raj](https://github.com/rajpratyush) - India - (https://www.linkedin.com/in/pratyush-raj-737809193) -  Python - Java - C - C++ - PHP - Dart - CSS - HTML
+
+- Note: Please don't forget to add your linkedin profile

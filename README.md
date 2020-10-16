@@ -1,6 +1,6 @@
 # Dev-Meet Hacktoberfest Developer Project
 
-Use this repo so as to create first PR for Hacktoberfest.
+Use this Dev-Meet repo to create your first PR for Hacktoberfest.
 
 Subscribe to newsletter to get new articles i write about technology and software development! 
 
@@ -26,7 +26,7 @@ I am planning to make an event in **Berlin** this year. Then we can contribute a
 ## Getting Started
 
 - Fork this repo (button on top)
-- Clone on your local machine
+- Clone to your local machine
 
 ```terminal
 git clone https://github.com/your-username/Dev-meet.git
@@ -34,11 +34,12 @@ git clone https://github.com/your-username/Dev-meet.git
 
 - Create a new branch
 
-```markdown
+```terminal
 git checkout -b my-new-branch
 ```
-- Add your Name, Github Address, Linkedin Profile, Location, Known Languages to __Contributors.md__ file
-- Commit and push
+
+- Add your Name, *Github Address*, *Linkedin Profile*, *Location*, *Known Languages* to __Contributors.md__ file
+- Commit and push your changes!
 
 ```markdown
 git add .
@@ -48,6 +49,7 @@ git rebase master
 git push origin my-new-branch
 ```
 
-- Create a new pull request from your forked repository
+- Create a new pull request from your forked repository.
 - 🎃 Happy Pull Requests! 🎃
 - Happy coding!
+- Happy Hacktoberfest
