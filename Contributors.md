@@ -92,6 +92,7 @@
 - [Glaucia Silva](https://github.com/glaucials) - São Paulo, Brasil - Java - C# - PHP - Javascript - HTML - CSS
 - [Pradyumn Singh](https://github.com/Pradyumn-Singh) - India - C++ - C - Python - HTML - CSS
 - [Wal Walczak](https://github.com/mocno123) - United Kingdom - Python - JavaScript - CSS - HTML
-- [Martin Sidorov](https://github.com/Matrix278) - Estonia - (https://www.linkedin.com/in/martin-s-8002a0157/) - PHP - Go - HTML - CSS - JavaScript - C#
+- [Pratyush Raj](https://github.com/rajpratyush) - India - (https://www.linkedin.com/in/pratyush-raj-737809193) -  Python - Java - C - C++ - PHP - Dart - CSS - HTML
+- [Martin Sidorov](https://github.com/Matrix278) - Estonia - (https://www.linkedin.com/in/martin-s-8002a0157) - PHP - Go - HTML - CSS - JavaScript - C#
 
-- Note: Please don't forget to add your linkedin profile!
+- Note: Please don't forget to add your linkedin profile
