@@ -94,5 +94,6 @@
 - [Wal Walczak](https://github.com/mocno123) - United Kingdom - Python - JavaScript - CSS - HTML
 - [Pratyush Raj](https://github.com/rajpratyush) - India - (https://www.linkedin.com/in/pratyush-raj-737809193) -  Python - Java - C - C++ - PHP - Dart - CSS - HTML
 - [Martin Sidorov](https://github.com/Matrix278) - Estonia - [Linkedin](https://www.linkedin.com/in/martin-s-8002a0157) - PHP - Go - HTML - CSS - JavaScript - C#
+- [Vincent Lagravère](https://gitlab.com/Jehlahd) - France - [Linkedin](https://www.linkedin.com/in/vincent-lagrav%C3%A8re-518675103/) - HTML / CSS / JavaScript / PHP
 
 - Note: Please don't forget to add your linkedin profile
