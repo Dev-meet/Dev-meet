@@ -9,7 +9,7 @@ Subscribe to newsletter to get new articles i write about technology and softwar
 [Dev Meet!](https://dev-meet.github.io/Dev-meet/)
 
 <p align="center">
-  <img align="center" src="https://github.com/Dev-meet/Dev-meet/blob/master/hacktoberfest-2020.png?raw=true" width=600 />
+  <img align="center" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=600 />
 </p>
 
 
