@@ -13,11 +13,6 @@ Subscribe to newsletter to get new articles i write about technology and softwar
 </p>
 
 
-# Event (Berlin)
-Happy Hacktoberfest 2020 to everyone! 
-I am planning to make an event in **Berlin** this year. Then we can contribute another projects together and create new pull request to any project you want to contribute.
-
-
 ## Guidelines
 
 - Add your Name, Github Adress, Location, Linkedin Profile, Known Languages to Contributors.md file 
