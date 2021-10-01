@@ -6,7 +6,7 @@ Subscribe to newsletter to get new articles i write about technology and softwar
 
 [Subscribe Now!](https://mailchi.mp/08eadf92daa2/neby3o8z79)
 
-[Dev Meet!](https://dev-meet.github.io/Dev-meet/)
+[Follow me on Medium](https://medium.com/@melih193)
 
 <p align="center">
   <img align="center" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=600 />
