@@ -1,6 +1,6 @@
 ﻿Template
 
-- [Your Name](https://github.com/) - Your Location - [Linkedin](https://www.linkedin.com/in/linkedin_URL) - Known languages
+- [Your Name](https://github.com/) - Your Location - [Linkedin](https://www.linkedin.com/in/linkedin_URL) - Known Programming languages
 
 - [Hadnazzar](https://github.com/hadnazzar)- Berlin - [Linkedin](https://www.linkedin.com/in/melih-yumak/) - Javascript - Python
 - [DragonGhost](https://github.com/DragonGhost7) - Montreal - Python - C++
