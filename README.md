@@ -4,7 +4,7 @@ Use this Dev-Meet repo to create your first PR for Hacktoberfest 2021.
 
 Subscribe to newsletter to get new articles i write about technology and software development! 
 
-[Subscribe Now!](https://mailchi.mp/08eadf92daa2/neby3o8z79)
+[Join Email List!](https://mailchi.mp/08eadf92daa2/neby3o8z79)
 
 [Follow me on Medium](https://medium.com/@melih193)
 
