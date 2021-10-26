@@ -96,4 +96,4 @@
 - [Martin Sidorov](https://github.com/Matrix278) - Estonia - [Linkedin](https://www.linkedin.com/in/martin-s-8002a0157) - PHP - Go - HTML - CSS - JavaScript - C#
 - [Julian Merida](https://github.com/JuKMR) - Argenntina - C - Python - Javascript - React - CSS - Scala - Haskell - Octave
 
-- Note: Please don't forget to add your linkedin profile
+- Note: Please do not forget to add your linkedin profile
