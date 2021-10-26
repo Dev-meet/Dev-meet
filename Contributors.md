@@ -2,7 +2,7 @@
 
 - [Your Name](https://github.com/) - Your Location - [Linkedin](https://www.linkedin.com/in/linkedin_URL) - Known Programming languages
 
-- [Hadnazzar](https://github.com/hadnazzar)- Berlin - [Linkedin](https://www.linkedin.com/in/melih-yumak/) - Javascript, Python
+- [Hadnazzar](https://github.com/hadnazzar) - Berlin - [Linkedin](https://www.linkedin.com/in/melih-yumak/) - Javascript, Python
 - [DragonGhost](https://github.com/DragonGhost7) - Montreal - Python - C++
 - [CCAtAlvis](https://github.com/CCAtAlvis) - Mumbai - PHP - C#
 - [SangeetaNB](https://github.com/SangeetaNB) - India - HTML - CSS - Javascript
