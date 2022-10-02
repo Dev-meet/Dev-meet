@@ -4,9 +4,13 @@ Use this Dev-Meet repo to create your first Pull Request for Hacktoberfest 2022.
 
 Subscribe to newsletter to get new articles i write about technology and software development! 
 
-[Join Email List!](https://mailchi.mp/08eadf92daa2/neby3o8z79)
+<p align="center">
+  [Join Email List!](https://mailchi.mp/08eadf92daa2/neby3o8z79)
+  
+  [Follow me on Medium](https://medium.com/@melih193)
+</p>
 
-[Follow me on Medium](https://medium.com/@melih193)
+
 
 <p align="center">
   <img align="center" src="https://blog.tooljet.com/content/images/size/w2000/2022/09/Screenshot-2022-09-27-at-08.03.21.png" width=600 />
