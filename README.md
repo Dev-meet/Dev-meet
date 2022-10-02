@@ -9,7 +9,7 @@ Subscribe to newsletter to get new articles i write about technology and softwar
 [Follow me on Medium](https://medium.com/@melih193)
 
 <p align="center">
-  <img align="center" src="https://blog.tooljet.com/content/images/size/w2000/2022/09/Screenshot-2022-09-27-at-08.03.21.png" width=600 />
+  <img align="center" src="" width=600 />
 </p>
 
 
