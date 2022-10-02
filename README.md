@@ -9,7 +9,7 @@ Subscribe to newsletter to get new articles i write about technology and softwar
 [Follow me on Medium](https://medium.com/@melih193)
 
 <p align="center">
-  <img align="center" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width=600 />
+  <img align="center" src="[https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)" width=600 />
 </p>
 
 
