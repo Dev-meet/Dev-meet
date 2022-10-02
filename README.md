@@ -6,6 +6,7 @@ Subscribe to newsletter to get new articles i write about technology and softwar
 
 <p align="center">
   <a href="https://mailchi.mp/08eadf92daa2/neby3o8z79" target="_blank"> Join Email List </a>
+  <br/>
   <a href="https://medium.com/@melih193" target="_blank"> Follow me on Medium </a>
 </p>
 
