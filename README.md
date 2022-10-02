@@ -15,7 +15,7 @@ Subscribe to newsletter to get new articles i write about technology and softwar
 
 ## Guidelines
 
-- Add your Name, Github Adress, Location, Linkedin Profile, Known Languages to Contributors.md file 
+- Add your Name, Github Adress, Location, Linkedin Profile, Known Languages to *Contributors.md* file 
 - Or find a developer nearby and connect with them!
 
 ## Getting Started
