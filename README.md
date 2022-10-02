@@ -1,6 +1,6 @@
 # Dev-Meet Hacktoberfest Developer Project
 
-Use this Dev-Meet repo to create your first PR for Hacktoberfest 2021.
+Use this Dev-Meet repo to create your first PR for Hacktoberfest 2022.
 
 Subscribe to newsletter to get new articles i write about technology and software development! 
 
