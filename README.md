@@ -9,7 +9,6 @@ Subscribe to the newsletter to get new articles I write about technology and sof
 </p>
 
 
-
 <p align="center">
   <img align="center" src="https://blog.tooljet.com/content/images/size/w2000/2022/09/Screenshot-2022-09-27-at-08.03.21.png" width=600 />
 </p>
