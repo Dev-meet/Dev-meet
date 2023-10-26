@@ -8,8 +8,9 @@ Subscribe to the newsletter to get new articles I write about technology and sof
   <a href="https://melihyumak.medium.com/" target="_blank"> Follow me on Medium </a>
 </p>
 
-</br>
-</br>
+
+
+
 
 <p align="center">
   <img align="center" src="https://blog.tooljet.com/content/images/size/w2000/2022/09/Screenshot-2022-09-27-at-08.03.21.png" width=600 />
